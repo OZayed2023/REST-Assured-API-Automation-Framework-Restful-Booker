@@ -1,0 +1,34 @@
+{
+	"id": "aa80b4c8-df29-47cc-90bb-f4a9cccb3efc",
+	"name": "RestfulBooker_Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "originalLastname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-12-01T04:29:55.941Z",
+	"_postman_exported_using": "Postman/11.73.5"
+}
